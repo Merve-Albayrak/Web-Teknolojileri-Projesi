@@ -149,3 +149,20 @@ h1 {
     color: olive;
     font-weight: inherit;
 }
+
+section img {
+    padding: 50px;
+}
+
+p {
+    text-indent: 30px;
+    font-size: 20px;
+    font-style: initial;
+}
+
+p {
+    text-indent: 30px;
+    font-size: 20px;
+    font-style: initial;
+    padding: 30px;
+}
